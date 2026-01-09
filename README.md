@@ -27,7 +27,7 @@ Place screenshots in `screenshots/`:
 screenshots/
 ├── panel_overview.png
 ├── panel_active_trade.png
-├── panel_logic_limit
+├── panel_logic_limit.png
 └── panel_logic_stop.png
 ```
 
