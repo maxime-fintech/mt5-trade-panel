@@ -21,15 +21,16 @@ This is a production‑quality **MetaTrader 5 trade panel** built as a portfolio
 
 ## Screenshots
 
+![Panel overview](screenshots/panel_overview.png)
+![Active trade](screenshots/panel_active_trade.png)
+
 Place screenshots in `screenshots/`:
 
-```
 screenshots/
 ├── panel_overview.png
 ├── panel_active_trade.png
 ├── panel_logic_limit.png
 └── panel_logic_stop.png
-```
 
 ## How to run
 
